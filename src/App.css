@@ -1,6 +1,7 @@
 :root {
   --black: #0d0d0d;
   --red: #ff2d2b;
+ 
 }
 
 .scoreboard {
@@ -18,6 +19,7 @@
   display: flex;
   justify-content: space-around;
   place-items: center;
+  
   /* height: 20rem; */
 }
 
